@@ -1,0 +1,57 @@
+img{
+	width:78%;
+	 height:300px;
+	 border-style:solid;
+	 border-width:2px;
+	 border-radius:6px;
+}
+p{
+	display:inline-block;
+	border-width:2px;
+    margin-left:12%;
+    font-family: cursive;
+}
+#Canim
+{
+	border-width:2px;
+	border-style: solid;
+	border-radius:12px;
+	width:78%;
+	background: linear-gradient(120deg,skyblue,white);
+}
+#Best
+{
+	border-width:2px;
+	border-style:solid;
+	border-radius:12px;
+	width:78%;
+	margin-top:5px;
+	background:linear-gradient(120deg,skyblue,white);}
+fieldset
+{
+	height:200px; 
+	width:300px;
+	border-style:solid; 
+	border-radius:6px; 
+	border-color:black;
+	margin-right:50%;	
+}
+.Connect
+{
+    border-width:2px;
+	border-style:solid;
+	border-radius:2px;
+	width:78%;
+	margin-top:5px;	
+	height:650px;
+	background: radial-gradient(#C70039,#19B887);
+    }
+.cos
+{ 
+    border-width:2px;
+	border-style:solid;
+	border-radius:12px;
+	width:78%;
+	margin-top:5px;	
+	background: linear-gradient(120deg,skyblue,white);
+}
